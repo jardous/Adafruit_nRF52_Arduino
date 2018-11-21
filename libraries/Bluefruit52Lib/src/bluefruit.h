@@ -80,6 +80,7 @@
 #include "clients/BLEClientUart.h"
 #include "clients/BLEClientDis.h"
 #include "clients/BLEClientCts.h"
+#include "clients/BLEClientMidi.h"
 #include "clients/BLEClientHidAdafruit.h"
 
 #include "utility/AdaCallback.h"
